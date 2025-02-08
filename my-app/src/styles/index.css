@@ -1,0 +1,10 @@
+@import "./general.css";
+:root{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 1200px;
+    height: 100%;
+    background-color:  var(--backColor);
+}

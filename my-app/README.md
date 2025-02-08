@@ -1,3 +1,8 @@
+Проект создан на основе библиотеки React.  Частично взята идея для архитектуры приложения  из https://feature-sliced.design. Также используется json-server для  получения и отправки fetch запросов. Сами функции находятся в папке Seminar-management. 
+Приложение запрашивает данные и отображает их на странице. 
+Функционал позволяет редактировать данные и удалять их.
+Страница не является адаптивной в полной мере. 
+Чтобы запустить приложение React и json-server одновременно, необходимо ввести команду  npm run dev.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
